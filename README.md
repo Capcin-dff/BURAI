@@ -1,2 +1,2 @@
 # BURAI
-Magnetic materials simulation using QUANTUM ESPRESSO (BURAI)
+Magnetic Materials Simulation using QUANTUM ESPRESSO (BURAI)
